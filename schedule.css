@@ -1,0 +1,31 @@
+/* Jeremiah Howell */
+table {
+  text-align: left;
+}
+
+th {
+  text-decoration: underline;
+  font-weight: bold;
+  background: #3299BB;
+}
+
+th:hover {
+  background:#554D7D;
+  color: #FDF23E;
+}
+
+tr {
+  width: 500px;
+  text-decoration: underline;
+}
+
+td {
+  background: #E46305;
+}
+
+td:hover {
+  background:#016ABC;
+  color: #AED6EE;
+}
+
+/* Color Palette adapted from: http://www.colourlovers.com/palette/129597/Pink_Poodle  */
